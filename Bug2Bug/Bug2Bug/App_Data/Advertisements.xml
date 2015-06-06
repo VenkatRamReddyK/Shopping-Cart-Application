@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>../images/amazon1.png</ImageUrl>
+		<NavigateUrl>http://www.amazon.com/</NavigateUrl>
+		<AlternateText>Visit Amazon's Site</AlternateText>
+		<Impressions>80</Impressions>
+		<Keyword>ProductInfo</Keyword>
+	</Ad>
+	<Ad>
+		<ImageUrl>../images/facebook.jpg</ImageUrl>
+		<NavigateUrl>http://www.facebook.com</NavigateUrl>
+		<AlternateText>Visit Facebook's Site</AlternateText>
+		<Impressions>40</Impressions>
+		<Keyword>Support</Keyword>
+	</Ad>
+</Advertisements>
